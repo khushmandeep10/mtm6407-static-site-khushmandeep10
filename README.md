@@ -1,5 +1,5 @@
-Name: Manveer Singh
+Name: Khushman Bhullar
 
-Student Id: 041129347
+Student Id: 
 
 Static site generator: Eleventy
